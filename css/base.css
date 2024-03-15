@@ -85,7 +85,7 @@ body.dark-theme {
   --error: #f74646;
 }
 
-.container {
+#root {
   margin: 0 auto;
   max-width: 730px;
   width: 100%;
